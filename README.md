@@ -7,6 +7,7 @@
 5. Keras
 6. Sklearn
 7. Matplotlib
+8. Numpy
 ## Dataset
 www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
 ## More Info
