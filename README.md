@@ -12,4 +12,4 @@
 www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
 ## More Info
 1. Splitting data with 80% Train and 20% val
-2. Using Epoch 35
+2. Using Epoch 35 with early stopping in > 92%
